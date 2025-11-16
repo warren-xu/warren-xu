@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Warren Xu</h1>
+<h1 align="center">Hi <span class="wave">👋</span>, I'm Warren Xu</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🌱 I’m currently learning **Spring Boot and GraphQL**
 
-- 👯 I’m looking to collaborate on [WAT.ai's ClipABit](https://github.com/ClipABit)
+- 👯 I’m collaborating on [WAT.ai's ClipABit](https://github.com/ClipABit), a semantic search tool to find video clips for editors!
 
 - 💬 Ask me about **react, python, and cloud concepts**
 
