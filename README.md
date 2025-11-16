@@ -6,13 +6,13 @@
 
 - 👯 I’m collaborating on [WAT.ai's ClipABit](https://github.com/ClipABit), a semantic search tool to find video clips for editors!
 
-- 💬 Ask me about **react, python, and cloud concepts**
+- 💬 Ask me about any Javascript, Typescript, and Python frameworks, and about any Azure cloud concepts (I'm AI-900 and AZ-900 certified)
 
 - 📫 How to reach me **wrxu@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/warren xu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warren xu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/warren-xu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warren xu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/triplejm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="triplejm" height="30" width="40" /></a>
 </p>
 
