@@ -6,7 +6,7 @@
 
 - 👯 I’m collaborating on [WAT.ai's ClipABit](https://github.com/ClipABit), a semantic search tool to find video clips for editors
 
-- 💬 Ask me about any Javascript, Typescript, and Python frameworks, and about any Azure cloud concepts (I'm AI-900 and AZ-900 certified)
+- 💬 Ask me about React, Python, and any Azure cloud concepts (I'm AI-900 and AZ-900 certified)
 
 - 📫 You can reach me at my email wrxu@uwaterloo.ca!
 
