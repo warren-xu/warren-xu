@@ -1,6 +1,6 @@
 <h1 align="center">Hi <span class="wave">👋</span>, I'm Warren Xu</h1>
 
-<h3 align="center">I'm a versatile full-stack developer specializing in incorporating beautiful frontends with robust backends.</h3>
+<h3 align="left">I'm a versatile full-stack developer specializing in incorporating beautiful frontends with robust backends.</h3>
 
 - 🌱 I’m currently learning Vulkan to design a 3D Game Engine
 
