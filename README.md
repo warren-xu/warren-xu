@@ -1,14 +1,14 @@
 <h1 align="center">Hi <span class="wave">👋</span>, I'm Warren Xu</h1>
 
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">I'm a versatile full-stack developer aiming to incorporate beautiful frontends with robust backends.</h3>
 
-- 🌱 I’m currently learning **Spring Boot and GraphQL**
+- 🌱 I’m currently learning Vulkan to design a 3D Game Engine
 
-- 👯 I’m collaborating on [WAT.ai's ClipABit](https://github.com/ClipABit), a semantic search tool to find video clips for editors!
+- 👯 I’m collaborating on [WAT.ai's ClipABit](https://github.com/ClipABit), a semantic search tool to find video clips for editors
 
 - 💬 Ask me about any Javascript, Typescript, and Python frameworks, and about any Azure cloud concepts (I'm AI-900 and AZ-900 certified)
 
-- 📫 How to reach me **wrxu@uwaterloo.ca**
+- 📫 You can reach me at my email wrxu@uwaterloo.ca!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
