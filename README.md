@@ -7,7 +7,7 @@
 - In my spare time, I make montages to showcase cool moments of my life. Honouring that, I’m collaborating on [WAT.ai's ClipABit](https://github.com/ClipABit), a semantic search tool to find video clips when editing, because that's always a pain!
 
 - Ask me about React, Python, and any Azure cloud concepts (I'm AI-900 and AZ-900 certified). Do not ask me about my Youtube channel, where 15-year-old me was, unfortunately, more than happy to show off his "Getting Gud at Bedwars: Ninja Bridging!" video.
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/warren-xu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warren xu" height="30" width="40" /></a>
