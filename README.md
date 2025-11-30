@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Warren!</h1>
 
-<h3 align="left">I'm a full-stack developer passionate about building easy-to-use and creative solutions to complex problems. When I tackle a challenge, I try to incorporate a bit of my identity into my approach.</h3>
+<h3 align="left">I like coding simple to solve hard problems. I also try and put a bit of my identity into anything I do. Here are some examples:</h3>
 
 - As an avid gamer, I like hosting VALORANT tournaments among friends. I got inspired by my C++ coursework to build an app to handle the VALORANT's map ban system.
 
